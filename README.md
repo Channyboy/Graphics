@@ -1,4 +1,3 @@
 Graphics
 ========
-
-graphics 
+Run with visual studio
